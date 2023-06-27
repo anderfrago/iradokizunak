@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/anderfrago/back-iradokizunak
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/anderfrago/front-iradokizunak
